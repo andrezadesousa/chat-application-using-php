@@ -12,3 +12,7 @@ Para esse projeto eu estou utilizando as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net)
 - [MySQL](https://www.mysql.com)
+- [Ajax](https://www.mysql.com)
+- [phpMyAdmin](https://www.mysql.com)
+
+banco de dados de uma tabela com sete colunas
